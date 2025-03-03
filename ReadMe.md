@@ -1,9 +1,4 @@
-//
-//  ReadMe.md
-//  Fast31
-//
-//  Created by Rockwell on 2025-03-02.
-//
+#  Created by Rockwell on 2025-03-02.
 
 
 # Fast31 - SwiftUI Movie Browser App (MVVM)
@@ -18,7 +13,7 @@
 
 This architecture promotes **scalability**, **testability**, and **maintainability**, making it easier to manage UI state and network operations.
 
-### **Mermaid Diagram**
+### **Diagram**
 Below is a visual representation of the **MVVM** architecture used in this project.
 
 ```mermaid
